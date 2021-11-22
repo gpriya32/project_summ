@@ -39,5 +39,8 @@ Han’s perspective:
 We have also used BERT-as-service for question- answering system.
  
 ## Working of Summarization App
+![Workflow](flow.png)
+![](img.png)
+![](wordcloud.png)
 
 
